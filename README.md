@@ -1,37 +1,19 @@
-# youth-rustic-vision
+# MAP (Multi-Asset-Protocol)
 
-## SetUp
+## Ideation
 
-For installing Rust on your local machine, run the following command
+The basic idea of MAP is to create a platform that allows for the creation multiple assets and the exchange of those assets. Map works on the idealogy of a tokenize assets(WBTC, WETH).
 
-```bash
-make install
-```
+## Goal
 
-_Note:-_ Choose the default option, ie type _1_
+The goal of MAP is become a serve as a platform for MAW(Multi Asset Wallet).Users will be able to use all sorts for crypto-assets from one single wallet. However MAW is still in development and MAP is not stable yet. Any feedback is welcome.
 
-For installing all the dependencies, run the following command
+## Features
 
-```bash
-make init
-```
+MAP has the following features:
 
-Congratulations you've completed the SetUp Proccess
-
-## Compile
-
-For compiling, run the following command;
-
-```bash
-make compile
-```
-
-_Note:-_ This will take anywhere between 20mins to 1 hour depending upon your RAM
-
-## Run the Code
-
-For running the compiled code, run the following command
-
-```bash
-make run
-```
+1. Mint assets
+2. Transfer assets
+3. Exchange assets
+4. Connect to Polkadot Relay chain(WIP)
+5. Lightining Speed Transactions (1sec)
